@@ -4,5 +4,5 @@
 
 #### 2n TRIMESTRE
 
-* [Tema 7.Frameworks i Laravel](0.7frameworks.html)
+* Tema 7.Frameworks i Laravel
 		
